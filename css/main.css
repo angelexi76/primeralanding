@@ -1,0 +1,47 @@
+.grid {
+  padding: 1em;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(4, auto);
+  gap: 1em; }
+
+.grid div {
+  background: #white; }
+
+.grid div:hover {
+  border: 1px solid orange;
+  background: white; }
+
+.grid img {
+  height: 500px;
+  width: 600px;
+  padding: 2px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+.contenedor h1 {
+  font-size: 50px;
+  text-align: center; }
+
+.carrito {
+  text-align: center;
+  display: block;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20px;
+  width: 65px; }
+
+.carrito p {
+  position: relative;
+  bottom: 12px;
+  right: 1.5px; }
+
+.grid p {
+  text-align: center; }
+
+.description p {
+  text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
