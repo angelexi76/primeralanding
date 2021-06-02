@@ -48,7 +48,7 @@ header {
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #000000, #e94057, #8a2387);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #000000, #311d0c, #fc7004);
+    background: linear-gradient(to right, #000000, #74297e, #d8b2d3);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
@@ -189,13 +189,13 @@ body {
   color: #b3aca7;
 }
 
-header {
+/* header {
   position: relative;
   margin: 100px 0 25px 0;
   font-size: 2.3em;
   text-align: center;
   letter-spacing: 7px;
-}
+} */
 
 #form {
   position: relative;
